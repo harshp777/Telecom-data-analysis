@@ -1,4 +1,3 @@
-# Telecom-data-analysis
 
 
 # Telecom Data Analysis Project
